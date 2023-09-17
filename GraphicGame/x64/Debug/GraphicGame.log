@@ -1,9 +1,1 @@
-﻿  GraphicGame.cpp
-D:\bsuir\5 term\SP\projects\GraphicGame\GraphicGame\GraphicGame.cpp(123,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\bsuir\5 term\SP\projects\GraphicGame\GraphicGame\GraphicGame.cpp(124,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\bsuir\5 term\SP\projects\GraphicGame\GraphicGame\GraphicGame.cpp(125,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\bsuir\5 term\SP\projects\GraphicGame\GraphicGame\GraphicGame.cpp(273,12): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
-D:\bsuir\5 term\SP\projects\GraphicGame\GraphicGame\GraphicGame.cpp(278,12): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
-D:\bsuir\5 term\SP\projects\GraphicGame\GraphicGame\GraphicGame.cpp(283,12): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
-D:\bsuir\5 term\SP\projects\GraphicGame\GraphicGame\GraphicGame.cpp(288,12): warning C4244: '=': conversion from 'LONG' to 'float', possible loss of data
-  GraphicGame.vcxproj -> D:\bsuir\5 term\SP\projects\GraphicGame\x64\Debug\GraphicGame.exe
+﻿  GraphicGame.vcxproj -> D:\bsuir\5 term\SP\projects\GraphicGame\x64\Debug\GraphicGame.exe
