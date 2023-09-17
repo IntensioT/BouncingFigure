@@ -139,6 +139,7 @@
     <ClCompile Include="Graphics.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ResourceCompile Include="AcccelerationTable.rc" />
     <ResourceCompile Include="GraphicGame.rc" />
   </ItemGroup>
   <ItemGroup>

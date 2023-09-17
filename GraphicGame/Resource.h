@@ -28,3 +28,6 @@
 #define _APS_NEXT_SYMED_VALUE		110
 #endif
 #endif
+
+#define IDR_ACCEL1                      101
+#define ID_TOGGLE_MODE                40002
